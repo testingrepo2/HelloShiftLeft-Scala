@@ -13,7 +13,7 @@ $ sbt run
 
 # Http routes
 
-See routes at [config/routes](config/routes).
+See routes at [config/routes](config/routes). 
 
 Use `localhost` as host name in the URLs
 
