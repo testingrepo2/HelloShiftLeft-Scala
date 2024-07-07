@@ -2,7 +2,7 @@
 
 ```
 $ sbt stage
-$ file ./target/helloshiftleft-play-jpa-scala-0.0.1-SNAPSHOT.jar
+$ file ./target/helloshiftleft-play-jpa-scala-0.0.1-SNAPSHOT.jar 
 ```
 
 # Run
