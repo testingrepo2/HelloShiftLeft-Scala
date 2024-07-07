@@ -13,7 +13,7 @@ $ sbt run
 
 # Http routes
 
-See routes at [config/routes](config/routes). 
+See routes at [config/routes](config/routes).
 
 Use `localhost` as host name in the URLs
 
@@ -23,7 +23,7 @@ To interact with the endpoints use `curl` (or any other tool)
 + GET /createCustomer
 + POST /account `curl localhost:8082/account -X POST -H "Content-Type: application/json" --data '{ "accountNumber": 1337, "routingNumber": 1222 }'`
 + GET /customers 
-+ GET /customersXML
++ GET /customersXML  
 
 
 # Package standalone (not officially supported by Play)
